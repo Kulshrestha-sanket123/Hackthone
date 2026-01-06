@@ -1,2 +1,2 @@
-# Hackthione
-Ai based web application for medical concultency . 
+# Hackathone
+AI based Web application for Medical Concultency. 
